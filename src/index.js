@@ -1,4 +1,5 @@
 const express = require("express");
+var cors = require('cors')
 const app = express();
 
 
@@ -9,7 +10,7 @@ app.set("port", process.env.PORT || 5000);
 
 //MIDLEWARES
 app.use(express.json());
-
+app.use(cors());
 
 
 //ROUTES
