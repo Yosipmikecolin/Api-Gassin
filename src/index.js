@@ -33,15 +33,10 @@ app.use(express.json());
 app.use(cors());
 
 
-
-
-
-
-
 //ROUTES
 app.use("/destinos", require("./routes/destinos.routes"));
 app.post("/upload/img", (req, res) => {
-    res.send(path.join(req.file.originalname));
+    res.send("guardado");
     //console.log("Archivo", req.file)
 })
 
