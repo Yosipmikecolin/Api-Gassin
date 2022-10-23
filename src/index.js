@@ -41,7 +41,7 @@ app.use(cors());
 //ROUTES
 app.use("/destinos", require("./routes/destinos.routes"));
 app.post("/upload/img", (req, res) => {
-    res.send(path.join(__dirname, "storagedd/" + req.file.originalname));
+    res.send(path.join(req.file.originalname));
     //console.log("Archivo", req.file)
 })
 
