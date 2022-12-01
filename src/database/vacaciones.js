@@ -27,7 +27,7 @@ const vacaciones = [
         "precio": 3400000,
         "clima": "Calido",
         "guia": {
-            "avatar": "https://unsplash.com/es/fotos/cdksyTqEXzo",
+            "avatar": "https://images.unsplash.com/photo-1504257432389-52343af06ae3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
             "nombre": "Francisco Reyes"
         }
     }, {
@@ -37,7 +37,7 @@ const vacaciones = [
         "precio": 3200000,
         "clima": "Templado",
         "guia": {
-            "avatar": "https://unsplash.com/es/fotos/7YVZYZeITc8",
+            "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1887&q=80",
             "nombre": "Matias Cobasis"
         }
     }, {
