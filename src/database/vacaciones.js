@@ -55,7 +55,7 @@ const vacaciones = [
         "url": "https://images.unsplash.com/photo-1543832923-44667a44c804?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1044&q=80",
         "destino": "Inglaterra",
         "precio": 4300000,
-        "clima": "Neblado",
+        "clima": "Nublado",
         "guia": {
             "avatar": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDEyfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
             "nombre": "Erika Juliana"
